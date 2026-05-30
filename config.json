@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsdarse",
+        "uuid": 8952651,
+        "checksum": "r49xns"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
